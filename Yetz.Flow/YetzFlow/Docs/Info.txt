@@ -1,0 +1,4 @@
+﻿id = CPF da aplicação // identificador
+titulo
+descricao
+videoId

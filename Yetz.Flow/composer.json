@@ -1,0 +1,17 @@
+{
+    "name": "cliente/yetz.flow",
+  "description": "Projeto api rest",
+  "license":  "MIT",
+    "authors": [
+        {
+            "name": "Ivana Batista dos Santos",
+            "email": "bisslee@gmail.com"
+        }
+    ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\":  "App/"
+    }
+  }
+}

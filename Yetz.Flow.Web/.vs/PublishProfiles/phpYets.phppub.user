@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <File Include="bibliotecas/bootstrap/css/bootstrap-grid.css">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/bootstrap/css/bootstrap.css">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/bootstrap/css/bootstrap.min.css">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/bootstrap/js/bootstrap.bundle.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/bootstrap/js/bootstrap.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/bootstrap/js/bootstrap.min.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/chart.js/Chart.bundle.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/chart.js/Chart.bundle.min.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/chart.js/Chart.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/chart.js/Chart.min.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/datatables/dataTables.bootstrap4.css">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/datatables/dataTables.bootstrap4.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/datatables/jquery.dataTables.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/css/font-awesome.css">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/css/font-awesome.min.css">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/fonts/fontawesome-webfont.eot">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/fonts/fontawesome-webfont.svg">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/fonts/fontawesome-webfont.ttf">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/fonts/fontawesome-webfont.woff">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/fonts/fontawesome-webfont.woff2">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/fonts/FontAwesome.otf">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/animated.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/bordered-pulled.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/core.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/fixed-width.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/font-awesome.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/icons.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/larger.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/list.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/mixins.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/path.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/rotated-flipped.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/screen-reader.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/stacked.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/less/variables.less">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/font-awesome.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_animated.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_bordered-pulled.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_core.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_fixed-width.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_icons.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_larger.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_list.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_mixins.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_path.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_rotated-flipped.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_screen-reader.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_stacked.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/font-awesome/scss/_variables.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/jquery-easing/jquery.easing.compatibility.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/jquery-easing/jquery.easing.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/jquery-easing/jquery.easing.min.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/jquery/jquery.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="bibliotecas/jquery/jquery.min.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="breadcrumb.php">
+      <publishTime>09/25/2020 17:12:56</publishTime>
+    </File>
+    <File Include="campanhas.php">
+      <publishTime>09/25/2020 22:47:12</publishTime>
+    </File>
+    <File Include="compraPontos.php">
+      <publishTime>09/26/2020 02:50:53</publishTime>
+    </File>
+    <File Include="css/sb-admin.css">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="css/sb-admin.min.css">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="home.php">
+      <publishTime>09/25/2020 19:04:21</publishTime>
+    </File>
+    <File Include="img/logo1.png">
+      <publishTime>09/24/2020 01:34:50</publishTime>
+    </File>
+    <File Include="img/logo2.png">
+      <publishTime>09/24/2020 01:35:07</publishTime>
+    </File>
+    <File Include="img/logo3.png">
+      <publishTime>09/24/2020 01:35:23</publishTime>
+    </File>
+    <File Include="index.php">
+      <publishTime>09/24/2020 05:59:34</publishTime>
+    </File>
+    <File Include="js/sb-admin-charts.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="js/sb-admin-charts.min.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="js/sb-admin-datatables.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="js/sb-admin-datatables.min.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="js/sb-admin.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="js/sb-admin.min.js">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="messageBox.php">
+      <publishTime>09/25/2020 16:28:16</publishTime>
+    </File>
+    <File Include="Modelo.php">
+      <publishTime>09/24/2020 03:44:16</publishTime>
+    </File>
+    <File Include="notasFiscais.php">
+      <publishTime>09/26/2020 03:18:45</publishTime>
+    </File>
+    <File Include="pagadores.php">
+      <publishTime>09/25/2020 19:15:22</publishTime>
+    </File>
+    <File Include="pageFooter.php">
+      <publishTime>09/25/2020 17:56:42</publishTime>
+    </File>
+    <File Include="pageHeader.php">
+      <publishTime>09/26/2020 03:04:45</publishTime>
+    </File>
+    <File Include="pug/blank.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/cards.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/charts.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/forgot-password.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/includes/css/core.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/includes/css/custom.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/includes/footer.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/includes/js/core.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/includes/js/custom.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/includes/modals/logout.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/includes/navbar.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/includes/scroll-to-top.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/index.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/login.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/navbar.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/register.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="pug/tables.pug">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="recuperarSenha.php">
+      <publishTime>09/24/2020 03:39:59</publishTime>
+    </File>
+    <File Include="scss/navbar/_navbar_colors.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/navbar/_navbar_fixed.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/navbar/_navbar_global.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/navbar/_navbar_static.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/navbar/_navbar_toggle.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/sb-admin.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/_cards.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/_footer.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/_global.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/_login.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/_mixins.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/_utilities.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="scss/_variables.scss">
+      <publishTime>10/20/2017 17:59:48</publishTime>
+    </File>
+    <File Include="teste.php">
+      <publishTime>09/24/2020 06:18:53</publishTime>
+    </File>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bibliotecas" />
+    <Folder Include="bibliotecas/bootstrap" />
+    <Folder Include="bibliotecas/font-awesome" />
+    <Folder Include="Properties" />
+  </ItemGroup>
+</Project>

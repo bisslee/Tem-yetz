@@ -1,0 +1,12 @@
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\bin\Release\netcoreapp3.1\YetzFlow.DB.deps.json
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\bin\Release\netcoreapp3.1\YetzFlow.DB.dll
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\bin\Release\netcoreapp3.1\YetzFlow.DB.pdb
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\bin\Release\netcoreapp3.1\YetzFlow.Entity.dll
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\bin\Release\netcoreapp3.1\YetzFlow.Entity.pdb
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\obj\Release\netcoreapp3.1\YetzFlow.DB.csprojAssemblyReference.cache
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\obj\Release\netcoreapp3.1\YetzFlow.DB.AssemblyInfoInputs.cache
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\obj\Release\netcoreapp3.1\YetzFlow.DB.AssemblyInfo.cs
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\obj\Release\netcoreapp3.1\YetzFlow.DB.csproj.CoreCompileInputs.cache
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\obj\Release\netcoreapp3.1\YetzFlow.DB.csproj.CopyComplete
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\obj\Release\netcoreapp3.1\YetzFlow.DB.dll
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.DB\obj\Release\netcoreapp3.1\YetzFlow.DB.pdb

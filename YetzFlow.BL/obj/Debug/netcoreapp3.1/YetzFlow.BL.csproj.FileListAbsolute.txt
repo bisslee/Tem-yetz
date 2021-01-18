@@ -1,0 +1,8 @@
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.BL\bin\Debug\netcoreapp3.1\YetzFlow.BL.deps.json
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.BL\bin\Debug\netcoreapp3.1\YetzFlow.BL.dll
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.BL\bin\Debug\netcoreapp3.1\YetzFlow.BL.pdb
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.BL\obj\Debug\netcoreapp3.1\YetzFlow.BL.AssemblyInfoInputs.cache
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.BL\obj\Debug\netcoreapp3.1\YetzFlow.BL.AssemblyInfo.cs
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.BL\obj\Debug\netcoreapp3.1\YetzFlow.BL.csproj.CoreCompileInputs.cache
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.BL\obj\Debug\netcoreapp3.1\YetzFlow.BL.dll
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.BL\obj\Debug\netcoreapp3.1\YetzFlow.BL.pdb

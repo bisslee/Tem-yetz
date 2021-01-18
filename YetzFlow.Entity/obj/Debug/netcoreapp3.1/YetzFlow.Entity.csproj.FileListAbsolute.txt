@@ -1,0 +1,16 @@
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\bin\Debug\netcoreapp3.1\YetzFlow.Entity.deps.json
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\bin\Debug\netcoreapp3.1\YetzFlow.Entity.dll
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\bin\Debug\netcoreapp3.1\YetzFlow.Entity.pdb
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\obj\Debug\netcoreapp3.1\YetzFlow.Entity.AssemblyInfoInputs.cache
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\obj\Debug\netcoreapp3.1\YetzFlow.Entity.AssemblyInfo.cs
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\obj\Debug\netcoreapp3.1\YetzFlow.Entity.csproj.CoreCompileInputs.cache
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\obj\Debug\netcoreapp3.1\YetzFlow.Entity.dll
+E:\Projetos\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\obj\Debug\netcoreapp3.1\YetzFlow.Entity.pdb
+P:\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\bin\Debug\netcoreapp3.1\YetzFlow.Entity.deps.json
+P:\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\bin\Debug\netcoreapp3.1\YetzFlow.Entity.dll
+P:\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\bin\Debug\netcoreapp3.1\YetzFlow.Entity.pdb
+P:\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\obj\Debug\netcoreapp3.1\YetzFlow.Entity.csproj.CoreCompileInputs.cache
+P:\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\obj\Debug\netcoreapp3.1\YetzFlow.Entity.AssemblyInfoInputs.cache
+P:\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\obj\Debug\netcoreapp3.1\YetzFlow.Entity.AssemblyInfo.cs
+P:\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\obj\Debug\netcoreapp3.1\YetzFlow.Entity.dll
+P:\Marco\yetzflow\Yetz.Flow\YetzFlow.Entity\obj\Debug\netcoreapp3.1\YetzFlow.Entity.pdb

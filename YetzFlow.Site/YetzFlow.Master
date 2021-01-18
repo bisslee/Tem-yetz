@@ -1,0 +1,134 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="YetzFlow.master.cs" Inherits="YetzFlow.Site.YetzFlow" %>
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Yetz Flow - <%= Session["NomePagina"] %></title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="bibliotecas/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="bibliotecas/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="css/sb-admin.min.css" />
+    <link href="https://unpkg.com/bootstrap-table@1.18.0/dist/bootstrap-table.min.css" rel="stylesheet">
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="canonical" href="https://yetz.flow.biss.com.br/" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="bg-dark fixed-nav sticky-footer" id="page-top">
+    <form id="form1" runat="server">
+        <!-- nav -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark  fixed-top" id="mainNav">
+            <a class="navbar-brand" href="home.aspx">
+                <img src="img/logo2.png" class="d-inline-block align-top" width="30" height="30" alt="" />Yetz Flow</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarContent" aria-expanded="false" aria-label="Navegação">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarContent">
+                <ul class="navbar-nav navbar-sidenav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="Home.aspx">
+                            <i class="fa fa-fw fa-home"></i>
+                            <span class="nav-link-text">Home</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Pagadores.aspx">
+                            <i class="fa fa-fw fa-money"></i>
+                            <span class="nav-link-text">Pagadores</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Campanhas.aspx">
+                            <i class="fa fa-fw fa-table"></i>
+                            <span class="nav-link-text">Campanhas</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="CompraPontos.aspx">
+                            <i class="fa fa-fw fa-shopping-cart"></i>
+                            <span class="nav-link-text">Compra de Pontos</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="VendaDireta.aspx">
+                            <i class="fa fa-fw fa-shopping-basket"></i>
+                            <span class="nav-link-text">Venda Direta</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Voucher.aspx">
+                            <i class="fa fa-fw fa-credit-card"></i>
+                            <span class="nav-link-text">Voucher</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="NotasFiscais.aspx">
+                            <i class="fa fa-fw fa-cc"></i>
+                            <span class="nav-link-text">Notas Fiscais</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Upload.aspx">
+                            <i class="fa fa-fw fa-upload"></i>
+                            <span class="nav-link-text">Upload</span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Relatorios.aspx">
+                            <i class="fa fa-fw fa-print"></i>
+                            <span class="nav-link-text">Relatórios</span>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav sidenav-toggler">
+                    <li class="nav-item">
+                        <a id="sidenavToggler" class="nav-link text-center">
+                            <i class="fa fa-fw fa-angle-left"></i>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item  mr-lg-3">
+                        <i class="fa fa-fw fa-user text-light"><%=NomeUsuario %></i>
+                    </li>
+                    <li class="nav-item">
+                        <asp:LinkButton ID="HlnkLogout" CssClass="nav-link"  runat="server" OnClick="HlnkLogout_Click">
+                            <i class="fa fa-sign-out">Logout</i>                       
+                        </asp:LinkButton>
+                    </li>
+                </ul>
+
+            </div>
+        </nav>
+        <div class="content-wrapper">
+            <div class="container-fluid">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item">
+                        <a href="Home.aspx">Home</a>
+                    </li>
+                    <li class="breadcrumb-item"><%= Session["NomePagina"] %></li>
+                </ol>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <footer class="sticky-footer">
+                <div class="container">
+                    <div class="text-center"><small>&copy; Yetz Flow 2020</small></div>
+                </div>
+            </footer>
+        </div>
+        <!-- Optional JavaScript -->
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="bibliotecas/jquery/jquery.min.js"></script>
+        <script src="bibliotecas/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="bibliotecas/jquery/jquery-easing/jquery.easing.min.js"></script>
+        <script src="https://unpkg.com/bootstrap-table@1.18.0/dist/bootstrap-table.min.js"></script>
+        <script src="js/sb-admin.min.js"></script>
+    </form>
+</body>
+</html>
